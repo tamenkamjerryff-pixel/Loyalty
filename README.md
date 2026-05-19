@@ -1,4 +1,4 @@
-echo "# Loyalty" >> README.md
+echo "# Loyalty" >> README.md \n
 git init
 git add README.md
 git commit -m "first commit"
